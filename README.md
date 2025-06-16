@@ -1,5 +1,6 @@
 # Unsupervised-Learning
 Dataset ini berisi data customer sebuah perusahaan penerbangan dan  beberapa fitur yang dapat menggambarkan value dari customer  tersebut
+https://drive.google.com/drive/folders/1v7BjYPybGlhQ9oNiPwgA-1l1uh3Vi3yW?usp=sharing (link dataset)
 
 # Overview
 Project berupa clustering end-to-end pertanyaan bisnis dimana akan diberikan sebuah dataset mentah berisi data customer untuk dianalisis:
