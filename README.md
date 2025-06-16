@@ -10,7 +10,7 @@ Project berupa clustering end-to-end pertanyaan bisnis dimana akan diberikan seb
 - Modeling + Evaluasi (Unsupervised)
 - Interpretasi model + Rekomendasi Bisnis
 
-Goal : Clustering customers based on dataset and describe their characteristics
+Goal : Clustering customers based on dataset and describe their characteristics <br>
 Business Impact : Recomendation the best way and strategic approach for each customer clusters
 
 # Data Preprocessing
